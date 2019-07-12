@@ -4,6 +4,6 @@ Why Not Today is an app that will help you form habits by reminding you every da
 
 # Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+If you have any questions or suggestions about our app, do not hesitate to contact us.
 
 Email: fxiaoding@gmail.com
